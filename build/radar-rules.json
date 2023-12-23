@@ -22087,7 +22087,7 @@
         "source": [
           "/page/*"
         ],
-        "target": "/recent"
+        "target": "/pkmer/recent"
       }
     ]
   },

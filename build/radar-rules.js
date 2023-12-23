@@ -11924,7 +11924,7 @@
     ".":[ { title:"最近更新",
         docs:"https://docs.rsshub.app/routes/bbs#pkmer-zui-jin-geng-xin",
         source:[ "/page/*" ],
-        target:"/recent" } ] },
+        target:"/pkmer/recent" } ] },
   "pku.edu.cn":{ _name:"北京大学",
     admission:[ { title:"硕士招生",
         docs:"https://docs.rsshub.app/routes/university#bei-jing-da-xue",
